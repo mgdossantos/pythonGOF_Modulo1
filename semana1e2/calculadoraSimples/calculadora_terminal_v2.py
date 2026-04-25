@@ -1,3 +1,5 @@
+#python -m streamlit run calculadora_streamlit.py
+
 print("Calculadora simples em Python")
 print("Escolha uma operação: +, -, * ou /")
 
